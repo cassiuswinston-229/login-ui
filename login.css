@@ -106,5 +106,7 @@ span{
 #register{
     left: 450px;
 }
-
+a{
+    text-decoration: none;
+}
 
